@@ -161,7 +161,7 @@ Customer-Segmentation-RFM/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/klay-10/RFM-customer-segmentation-/tree/main
 ```
 
 2. Navigate to the project directory:
