@@ -11,6 +11,21 @@ The truth is, not all customers are created equal. But how do you tell the diffe
 That's where **RFM Analysis** comes in. RFM (Recency, Frequency, and Monetary Value) is a customer segmentation technique that helps businesses identify their most valuable customers based on purchasing behaviour.
 
 In this project, I applied RFM Analysis to transactional data to examine customer purchasing patterns, identify high-value customers, and group customers into meaningful segments. The goal is to transform raw transactional data into actionable insights that support customer retention, targeted marketing, customer loyalty, and revenue growth.
+## Dataset Overview
+This dataset is a synthetic bakery retail dataset designed for educational, academic, and machine learning research purposes. It contains 19,321 records and 40 columns representing bakery transactions, customer characteristics, product details, pricing, promotions, environmental conditions, inventory, and business performance.
+
+The dataset covers a two-year period from January 1, 2023, to December 31, 2024, and includes 35 unique bakery products across three stores. It provides a structured foundation for studying bakery sales patterns and developing data-driven decision-support approaches.
+
+## Dataset Contents
+The dataset includes the following categories of information:
+
+* Customer information: Customer age, gender, customer segment, loyalty membership, and customer ratings.
+* Date and time: Transaction dates, year, month, day, day of the week, weekend indicator, hour, and time.
+* Product information: Product name, category, shelf life, storage type, and perishability level.
+* Pricing and sales: Quantity, unit price, cost price, selling price, discount percentage, and total bill.
+* Promotions and external factors: Promotion status, promotion type, festival, season, weather, and temperature.
+* Inventory and waste: Units produced, units sold, unsold units, available stock, and waste percentage.
+* Business performance: Profit, payment method, and store identification.
 
 ## 2. Business Problem
 
